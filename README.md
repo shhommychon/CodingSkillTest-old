@@ -49,7 +49,7 @@
   * C#
   * Go
 
-* #### ☆☆☆☆☆ Professor taught me but don't know how to use
+* #### ☆☆☆☆☆ Professor taught me but still don't know how to use
 
   * C++
   * C

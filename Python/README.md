@@ -1,4 +1,4 @@
-![python](https://github.com/FeetCodingHommy/CodingSkillTest/blob/master/pic_python.png)
+![python](https://github.com/FeetCodingHommy/CodingSkillTest/blob/master/Python/pic_python.png)
 
 # 파이썬 퀴즈 문제풀이
 ### 백준 / Baekjoon
